@@ -12,6 +12,13 @@ This project investigates **social media addiction among students** and its impa
 
 ---
 
+## 📊 Interactive Dashboard
+The project features an **interactive Power BI dashboard** that brings the analysis to life. Key highlights include:  
+- **Dynamic DAX Measures:** Calculate addiction scores, average usage per platform, and behavioral risk indices in real-time.  
+- **Interactive Visualizations:** Slicers, filters, and charts to explore patterns and trends in student social media usage.  
+- **Actionable Insights:** Understand the impact of social media habits on mental health, sleep, relationships, and academic performance.
+
+  
 ## 🛠 Technologies & Tools
 - **Data Analysis:**  Excel  
 - **Business Intelligence:** Power BI  
