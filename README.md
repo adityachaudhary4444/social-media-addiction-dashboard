@@ -60,4 +60,4 @@ In a **digital-first world**, understanding the impact of social media on studen
 - Enhance academic outcomes  
 
 ## 💻Screenshot
-https://github.com/adityachaudhary4444/social-media-addiction-dashboard/blob/main/soc-addiction%20report.png
+[Dashboard Priview]-https://github.com/adityachaudhary4444/social-media-addiction-dashboard/blob/main/soc-addiction%20report.png
