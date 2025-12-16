@@ -10,6 +10,17 @@ This project investigates **social media addiction among students** and its impa
 - **Addiction Scoring:** Computed a comprehensive **addiction score** using **DAX measures** in Power BI for dynamic, interactive insights.  
 - **Actionable Recommendations:** Strategies to reduce addiction and promote healthier habits.
 
+
+## 📌 Business Problem
+Excessive social media usage among students can lead to:  
+- Poor academic performance  
+- Sleep deprivation  
+- Mental health issues (stress, anxiety, depression)  
+- Interpersonal conflicts  
+
+This project **addresses this problem** by analyzing student social media behavior, identifying patterns of addiction, and providing actionable insights to help educators, policymakers, and mental health professionals promote healthier digital habits.  
+
+---
 ---
 
 ## 📊 Interactive Dashboard
