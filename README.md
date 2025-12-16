@@ -28,6 +28,8 @@ The project features an **interactive Power BI dashboard** that brings the analy
 ---
 
 ## 📊 Dataset
+The analysis uses a publicly available dataset from [Kaggle](https://www.kaggle.com/) on student social media habits and their impact on mental health and academics.  
+
 Includes columns such as:  
 - Student ID, Age, Gender, Country  
 - Average daily hours on social media  
