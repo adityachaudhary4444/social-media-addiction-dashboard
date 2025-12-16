@@ -12,7 +12,7 @@ This project investigates the growing phenomenon of social media addiction among
 
 ## Technologies & Tools
 - **Data Analysis:** Excel  
-- **Visualization:** Power BI   
+- **Visualization:** Power BI (DAX measures, calculated columns, interactive dashboards)  
 - **Techniques:** Data cleaning, exploratory data analysis (EDA), statistical correlation, and scoring algorithms
 
 ## Why This Project Matters
