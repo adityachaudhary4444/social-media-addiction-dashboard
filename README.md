@@ -58,3 +58,6 @@ In a **digital-first world**, understanding the impact of social media on studen
 - Foster healthier digital habits  
 - Improve student well-being  
 - Enhance academic outcomes  
+
+## 💻Screenshot
+https://github.com/adityachaudhary4444/social-media-addiction-dashboard/blob/main/soc-addiction%20report.png
